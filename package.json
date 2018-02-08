@@ -1,0 +1,17 @@
+{
+  "name": "veille-node4",
+  "version": "1.0.0",
+  "description": "cours 4 Veille",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "\u001b[A\u001b[B\"Olivier Doyle-Turcotte\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
